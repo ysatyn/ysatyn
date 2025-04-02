@@ -12,6 +12,7 @@ I'm a student from Russia who enjoys developing fun projects, primarily Telegram
 
 *   [The_Gallows](https://github.com/ysatyn/The_gallows) - A simple game inspired by the Russian word game.
 *   [Bunker_Bot](https://github.com/ysatyn/bunker_bot) - A more complex project, inspired by the board game "Bunker".
+*   [IQ_Bot](https://github.com/ysatyn/IQ_Bot) - A small project for entertainment in Telegram chats.
 *   I have several other projects in development.
 
 ## 🌐 Some more information
