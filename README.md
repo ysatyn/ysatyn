@@ -1,19 +1,25 @@
-# Hi there👋, I'm Ysatyn!
+# Привет, я Ysatyn
 
-I'm a student from Russia who enjoys developing fun projects, primarily Telegram bots using Python and pyTelegramBotAPI. I continue to expand my skills in software development.
+Я Python разработчик с двухлетним опытом разработки. Не стою на месте и продолжаю расти и учить новое. По большей части мои проекты это телеграм боты, в которых я достиг определённых успехов
 
-## 🚀 Skills
-*Languages*
-- Python
-- HTML/CSS
-- JavaScript
+## 🚀 Мой стек
+##### Языки программирования
+- Python (2-летний опыт)
+- HTML/CSS (Основы)
+- JavaScript (Основы)
+- SQL (Средний)
+##### Библиотеки и фреймворки
+- Telegram Bot Api (pyTelegramBotAPI)
+- SQLAlchemy 2.0 (Асинхронный ORM)
+- FastAPI (Веб-фреймворк)
+- Pydantic (Валидация данных)
+##### Инструменты и DevOps
+- Docker & Docker Compose
+- Git & GitHub
 
-## 🔭 Current projects
 
-*   [The_Gallows](https://github.com/ysatyn/The_gallows) - A simple game inspired by the Russian word game.
-*   [Bunker_Bot](https://github.com/ysatyn/bunker_bot) - A more complex project, inspired by the board game "Bunker".
-*   [IQ_Bot](https://github.com/ysatyn/IQ_Bot) - A small project for entertainment in Telegram chats.
-*   I have several other projects in development.
+## Текущие проекты
+- [Бот для учёта баллов ЕГЭ](https://github.com/ysatyn/EGE_scores)- буквально бот, который делает статистику по твоим баллам за каждый пробник. Ещё в разработке
+Ну и несколько уже дописанных (не всегда) проектов в профиле, например (Бот по игре Бункер)[https://github.com/ysatyn/bunker_bot] или (IQ бот)[https://github.com/ysatyn/IQ_Bot]
 
-## 🌐 Some more information
- Some of my projects currently only have documentation and/or interfaces in Russian. English versions may be added in the future.
+Возможно, в скором времени, добавлю сюда ещё больше уже сделанных проектов, если посчитаю, что они тоже заслуживают внимания. 
